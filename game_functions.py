@@ -1,3 +1,5 @@
+#game functions like hitting spaceship, fire bullet or checking high scores
+
 import sys
 from time import sleep
 
