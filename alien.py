@@ -1,3 +1,5 @@
+#a class of an alien
+
 import pygame
 from pygame.sprite import Sprite
 
