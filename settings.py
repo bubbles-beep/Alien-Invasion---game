@@ -1,3 +1,5 @@
+#class of setting such as bullets settings or speed of aliens
+
 class Settings():
     """A class to store all settings for Alien Invasion."""
 
