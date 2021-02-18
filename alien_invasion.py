@@ -1,3 +1,5 @@
+#this is a main file - run it for playing
+
 import pygame
 from pygame.sprite import Group
 
